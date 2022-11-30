@@ -4,7 +4,7 @@
 # Currency Wallet
 
 Currency wallet is an application that will calculate the potential profit or loss of currencies. The user will be able to enter detailed information related to the currencies owned. The app adds data to local storage, currency price is getting from [Exchangerates API](https://exchangeratesapi.io/). 
-&nbsp;
+</br>
 [Currency Codes](https://www.iban.pl/currency-codes)
 
 **Main features**:
@@ -17,7 +17,7 @@ Currency wallet is an application that will calculate the potential profit or lo
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/material--ui-DB7093?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material-UI](https://img.shields.io/badge/material--ui-DB7093?style=for-the-badge&logo=material-ui&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 &nbsp;
  
